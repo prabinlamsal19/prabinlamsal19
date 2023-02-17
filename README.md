@@ -79,11 +79,11 @@ Hello, World! 🌎
 <br />
 <br/>
 <div align="left">
-<img alt="Prabin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=K-adu&show_icons=true&theme=radical" />
+<img alt="Prabin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prabinlamsal19&show_icons=true&theme=radical" />
 </div>
 <br/>
 <div align="left">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-adu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinlamsal19&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 <br/>
 <h2 align="left">:) Thank You</h2>
