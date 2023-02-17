@@ -2,7 +2,7 @@
 <div style="text-align: center">
 <h2>
 Hello, World! 🌎 
-<br/>I'm Manish Baral AKA K-adu
+<br/>I am Prabin Lamsal
 </h2>
 </a>
 </a>
@@ -16,10 +16,10 @@ Hello, World! 🌎
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=K-adu)
 
 - 🔭 I’m currently working on developing Machine Learning and Neural Nets Projects
-- 🌱 I’m currently learning Django and Flutter
+- 🌱 I’m currently working on Django and Flutter
 - 👯 I’m looking to collaborate in Machine Learning, Webapp, mobile app
-- 🥅 2022 Goals: Surpass Son Goku
-- ⚡ I love Football,baketball,tabletennis,swimming,anime,series,guitar,trekking...... 🤣
+- 🥅 2023 Goals: Turn Super Saiyan
+- ⚡ I love Coding,Football,tabletennis,anime,manga,guitar,trekking,singing...... 🤣
 
 <br/>
  </br>
@@ -27,16 +27,17 @@ Hello, World! 🌎
 
 𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊 𝖆𝖇𝖔𝖚𝖙 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌, 𝖇𝖊 𝖎𝖙 𝖘𝖔𝖒𝖊 𝖉𝖔𝖚𝖇𝖙 𝖔𝖗 𝖏𝖚𝖘𝖙 𝖙𝖔 𝖍𝖆𝖓𝖌𝖔𝖚𝖙 𝖆𝖓𝖉 𝖙𝖆𝖑𝖐 𝖔𝖗 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖌𝖆𝖒𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗 𝖏𝖚𝖘𝖙 𝖕𝖎𝖓𝖌 𝖒𝖊 😉.
 
-<a href="mailto:manishbaral112@gmail.com">
+<a href="mailto: lamsalprabin74@gmail.com">
  <img align="left" alt="Gmail" width="50" hight="50" src="assets/gmail.png" />
 </a>
-<a href="https://twitter.com/manisbaral">
-  <img align="left" alt="K-adu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="mailto: prabinlamsal@gmail.com">
+ <img align="left" alt="Gmail" width="50" hight="50" src="assets/gmail.png" />
+</a>
  
- <a href=" https://www.instagram.com/6_shanks_9/">
+ <a href=" https://www.instagram.com/lamsal_74/">
   <img align="left" alt="K-adu | Twitter" width="21px" src="https://github.com/K-adu/K-adu/blob/main/assets/instagram.png" />
   
- <a href="https://www.linkedin.com/in/manish-baral-788864227/">
+ <a href="https://www.linkedin.com/in/prabin-lamsal-1914aa1b3/">
     <img align="left" alt="LinkedIn" width="21px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a>
 
 </br>
@@ -78,7 +79,7 @@ Hello, World! 🌎
 <br />
 <br/>
 <div align="left">
-<img alt="Kadu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=K-adu&show_icons=true&theme=radical" />
+<img alt="Prabin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=K-adu&show_icons=true&theme=radical" />
 </div>
 <br/>
 <div align="left">
@@ -87,11 +88,11 @@ Hello, World! 🌎
 <br/>
 <h2 align="left">:) Thank You</h2>
 <div align="left">
-<img width="450" height="300" src="https://github.com/K-adu/K-adu/blob/main/assets/goku-gif-6.gif"/>
+<img width="450" height="300" src="https://github.com/prabinlamsal19/prabinlamsal19/blob/main/assets/goku-gif-6.gif"/>
 </div>
 <hr>
 
 <!---
-K-adu/K-adu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+prabinlamsal19/prabinlamsal19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
