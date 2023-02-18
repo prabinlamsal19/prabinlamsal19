@@ -28,10 +28,10 @@ Hello, World! 🌎
 𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊 𝖆𝖇𝖔𝖚𝖙 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌, 𝖇𝖊 𝖎𝖙 𝖘𝖔𝖒𝖊 𝖉𝖔𝖚𝖇𝖙 𝖔𝖗 𝖏𝖚𝖘𝖙 𝖙𝖔 𝖍𝖆𝖓𝖌𝖔𝖚𝖙 𝖆𝖓𝖉 𝖙𝖆𝖑𝖐 𝖔𝖗 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖌𝖆𝖒𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗 𝖏𝖚𝖘𝖙 𝖕𝖎𝖓𝖌 𝖒𝖊 😉.
 
 <a href="mailto: lamsalprabin74@gmail.com">
- <img align="left" alt="Gmail" width="50" height="50" src="https://github.com/K-adu/K-adu/blob/main/assets/instagram.png" />
+ <img align="left" alt="Gmail" width="61px"  src="https://github.com/K-adu/K-adu/blob/main/assets/gmail.png" />
 </a>
 <a href="mailto: prabinlamsal74@gmail.com">
- <img align="left" alt="Gmail" width="50" height="50" src="https://github.com/K-adu/K-adu/blob/main/assets/instagram.png" />
+ <img align="left" alt="Gmail" width="61px" src="https://github.com/K-adu/K-adu/blob/main/assets/gmail.png" />
 </a>
  
  <a href=" https://www.instagram.com/lamsal_74/">
