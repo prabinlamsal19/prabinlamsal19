@@ -15,11 +15,12 @@ Hello, World! 🌎
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=K-adu)
 
-- 🔭 I’m currently working on developing Machine Learning and Neural Nets Projects
-- 🌱 I’m currently working on Django and Flutter
+- 🔭 I’m the most interested in Machine Lerning.
+- 🌱 I’m currently working in Python and Django.
+- ☀️ I'm can do frontend stuffs in Flutter and Reactjs.
 - 👯 I’m looking to collaborate in Machine Learning, Webapp, mobile app
-- 🥅 2023 Goals: Turn Super Saiyan
-- ⚡ I love Coding,Football,tabletennis,anime,manga,guitar,trekking,singing...... 🤣
+- 🥅 2023 Goals: Unlock Sage Mode
+- ⚡ I love Coding,Football,Tabletennis,Anime,Manga,Guitar,Singing,JustChilling...... 🤣
 
 <br/>
  </br>
