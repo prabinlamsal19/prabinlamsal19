@@ -15,12 +15,12 @@ Hello, World! 🌎
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=K-adu)
 
-- 🔭 I’m the most interested in Machine Lerning.
-- 🌱 I’m currently working in Python and Django.
-- ☀️ I'm can do frontend stuffs in Flutter and Reactjs.
-- 👯 I’m looking to collaborate in Machine Learning, Webapp, mobile app
-- 🥅 2023 Goals: Unlock Sage Mode
-- ⚡ I love Coding,Football,Tabletennis,Anime,Manga,Guitar,Singing,JustChilling...... 🤣
+- 🔭 I’m can build mobile applications with flutter.
+- 🌱 I’m can build full stack web applications with MERN Stack.
+- ☀️ I'm very interested in Machine Learning.
+- 👯 I’m looking to collaborate in Machine Learning, Webapp, Mobile app.
+- 🥅 2023 Goals: Work on Flutter and MERN Stack mostly. 
+- ⚡ I love Coding,Football,Tabletennis,Anime,Manga,Guitar,Singing,JustChilling...... 
 
 <br/>
  </br>
