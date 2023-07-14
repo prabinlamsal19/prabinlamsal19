@@ -15,18 +15,13 @@ Hello, World! 🌎
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=K-adu)
 
-- 🔭 I’m can build mobile applications with flutter.
-- 🌱 I’m can build full stack web applications with MERN Stack.
-- ☀️ I'm very interested in Machine Learning.
-- 👯 I’m looking to collaborate in Machine Learning, Webapp, Mobile app.
-- 🥅 2023 Goals: Work on Flutter and MERN Stack mostly. 
-- ⚡ I love Coding,Football,Tabletennis,Anime,Manga,Guitar,Singing,JustChilling...... 
-
+I do programming. 😉😗💪 
+Nice to meet you. 
 <br/>
  </br>
 
 
-𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊 𝖆𝖇𝖔𝖚𝖙 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌, 𝖇𝖊 𝖎𝖙 𝖘𝖔𝖒𝖊 𝖉𝖔𝖚𝖇𝖙 𝖔𝖗 𝖏𝖚𝖘𝖙 𝖙𝖔 𝖍𝖆𝖓𝖌𝖔𝖚𝖙 𝖆𝖓𝖉 𝖙𝖆𝖑𝖐 𝖔𝖗 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖌𝖆𝖒𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗 𝖏𝖚𝖘𝖙 𝖕𝖎𝖓𝖌 𝖒𝖊 😉.
+𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊 𝖆𝖇𝖔𝖚𝖙 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌, below are my links:  😉.
 
 <a href="mailto: lamsalprabin74@gmail.com">
  <img align="left" alt="Gmail" width="61px"  src="https://github.com/K-adu/K-adu/blob/main/assets/gmail.png" />
@@ -36,7 +31,7 @@ Hello, World! 🌎
 </a>
  
  <a href=" https://www.instagram.com/lamsal_74/">
-  <img align="left" alt="K-adu | Twitter" width="21px" src="https://github.com/K-adu/K-adu/blob/main/assets/instagram.png" />
+  <img align="left" alt="ig74" | Twitter" width="21px" src="https://github.com/K-adu/K-adu/blob/main/assets/instagram.png" />
   
  <a href="https://www.linkedin.com/in/prabin-lamsal-1914aa1b3/">
     <img align="left" alt="LinkedIn" width="21px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a>
