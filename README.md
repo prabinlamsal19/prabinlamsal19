@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **anything that interests me**
 
-- 👨‍💻 Some of my projects are availaible at [lamsalprabin.com.np]
+- 👨‍💻 Some of my projects are available at [lamsalprabin.com.np](https://lamsalprabin.com.np)
 
 - 📝 I don't regularly write articles on [prabin.netlify.app](https://prabin.netlify.app)
 
