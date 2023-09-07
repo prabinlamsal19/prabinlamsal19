@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabin Lamsal</h1>
-<h3 align="center">Code warrior, fearless learner, challenge conqueror
+<h3 align="center">code warrior, fearless learner, challenge conqueror
 </h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabinlamsal19&label=Profile%20views&color=0e75b6&style=flat" alt="prabinlamsal19" /> </p>
