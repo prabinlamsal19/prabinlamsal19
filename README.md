@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/prabinlamsal74" target="blank"><img src="https://img.shields.io/twitter/follow/prabinlamsal74?logo=twitter&style=for-the-badge" alt="prabinlamsal74" /></a> </p>
 
-- 🌱 I’m currently learning **anything that interests me**
+- 🌱 I’m currently learning **Flutter and FullStack(Node/React/Nest)**
 
 - 👨‍💻 Some of my projects are available at [lamsalprabin.com.np](https://lamsalprabin.com.np)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prabinlamsal74@gmail.com**
 
-- ⚡ Fun fact **I use Arch and VIM, btw. By VIM, of course, I mean the superior VIM extension in VSCode.😂**
+- ⚡ Fun fact **I use Arch and VIM, btw. VIM extension on VSCode, of course.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
