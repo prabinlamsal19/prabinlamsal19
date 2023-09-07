@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabin Lamsal</h1>
-<h3 align="center">I build stuffs and solve problems with programming.</h3>
+<h3 align="center">programming maestro, problem-solving ninja !!</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabinlamsal19&label=Profile%20views&color=0e75b6&style=flat" alt="prabinlamsal19" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prabinlamsal74@gmail.com**
 
-- ⚡ Fun fact **I use Arch and VIM, btw. By VIM, of course, I mean the superior VIM extension in VSCode.**
+- ⚡ Fun fact **I use Arch and VIM, btw. By VIM, of course, I mean the superior VIM extension in VSCode.😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
