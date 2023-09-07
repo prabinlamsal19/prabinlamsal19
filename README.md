@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prabinlamsal74@gmail.com**
 
-- ⚡ Fun fact **I use Arch and VIM btw. By VIM, of course, I mean the superior VIM extension in VSCode.**
+- ⚡ Fun fact **I use Arch and VIM, btw. By VIM, of course, I mean the superior VIM extension in VSCode.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
