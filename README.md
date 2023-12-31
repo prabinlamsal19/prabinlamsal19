@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prabinlamsal74@gmail.com**
 
-- ⚡ Fun fact **I use Arch and the VIM extension on VSCode, btw.**
+- ⚡ Fun fact **I use Arch and the VIM extension on VSCode, btw. & I am slowly shifting towards #NVim now,btw.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
