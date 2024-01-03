@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/prabinlamsal74" target="blank"><img src="https://img.shields.io/twitter/follow/prabinlamsal74?logo=twitter&style=for-the-badge" alt="prabinlamsal74" /></a> </p>
 
-- 🌱 I’m currently learning+working on **Flutter and FullStack(Node/React/Nest)**
+- 🌱 I’m currently learning+working on **Flutter and FullStack(Node/React/Nest) **
 
 - 👨‍💻 Some of my projects are available at [lamsalprabin.com.np](https://lamsalprabin.com.np)
 
