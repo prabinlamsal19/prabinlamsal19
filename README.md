@@ -5,15 +5,20 @@
 
 <p align="left"> <a href="https://twitter.com/prabinlamsal74" target="blank"><img src="https://img.shields.io/twitter/follow/prabinlamsal74?logo=twitter&style=for-the-badge" alt="prabinlamsal74" /></a> </p>
 
-- 🌱 I’m currently learning+working on **Flutter and FullStack(Node/React/Nest) **
+- 🌱 I’m currently learning+working on **Flutter and FullStack(Node/React/Nest) && Langchain** 
 
 - 👨‍💻 Some of my projects are available at [lamsalprabin.com.np](https://lamsalprabin.com.np)
 
-- 📝 I don't regularly write articles on [prabin.netlify.app](https://prabin.netlify.app)
+- 📝 I only design well when the design is available. [prabin.netlify.app](https://prabin.netlify.app)
 
 - 📫 How to reach me **prabinlamsal74@gmail.com**
 
-- ⚡ Fun fact **I use Arch and the VIM extension on VSCode, btw. & I am slowly shifting towards #NVim now,btw.**
+- ⚡ VIM Keybindings >> VIM, the Editor(or nvim, lvim)
+- ⚡ Flutter >> React Native
+- ⚡ Nothing is beating JS market ever.
+- ⚡ Arch >> Debian
+- ⚡ Humans >> AI(its just a tool bro.) 
+- ⚡ grunge >> pop
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
