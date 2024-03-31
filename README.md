@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/prabinlamsal74" target="blank"><img src="https://img.shields.io/twitter/follow/prabinlamsal74?logo=twitter&style=for-the-badge" alt="prabinlamsal74" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter && langchain.js** 
+- 🌱 I’m currently learning **to read OpenSource code && langchain.js** 
 
 - 👨‍💻 Some of my projects are available at [lamsalprabin.com.np](https://lamsalprabin.com.np)
 
