@@ -15,9 +15,11 @@
 
 - ⚡ Flutter >> React Native
 - ⚡ VIM Keybindings >> VIM, the Editor(or nvim, lvim)
-- ⚡ Nothing is beating JS market ever.
-- ⚡ Arch >> Debian
-- ⚡ Humans >> AI(its just a tool bro.) 
+- ⚡ JS ecosystem (except react native)   >>>>> 
+- ⚡ a pragmatic programmer >> 10 frameworkers 
+- ⚡ (Arch >>>> Debian)   &&    (AUR>>>>>>> *)
+- ⚡ Humans >> AI(its just a tool bro.) p.s. please don't make me jobless 
+- ⚡ Go is the best programming language ever by design.
 - ⚡ grunge >> pop
 
 <h3 align="left">Connect with me:</h3>
