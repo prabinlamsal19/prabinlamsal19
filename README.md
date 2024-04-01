@@ -17,7 +17,7 @@
 - ⚡ VIM Keybindings >> VIM, the Editor(or nvim, lvim)
 - ⚡ JS ecosystem (except react native)   >>>>> 
 - ⚡ a pragmatic programmer >> 10 frameworkers 
-- ⚡ (Arch >>>> Debian)   &&    (AUR>>>>>>> *)
+- ⚡ (Arch >>>> Debian and her children)   &&    (AUR>>>>>>> *)
 - ⚡ Humans >> AI(its just a tool bro.) p.s. please don't make me jobless 
 - ⚡ Go is the best programming language ever by design.
 - ⚡ grunge >> pop
