@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/prabinlamsal74" target="blank"><img src="https://img.shields.io/twitter/follow/prabinlamsal74?logo=twitter&style=for-the-badge" alt="prabinlamsal74" /></a> </p>
 
 - I am a Flutter Developer by profession. 
-- 🌱 I’m currently learning ** Flutter Package Codebases , System Design , wroking in big NestJs codebases , Reading and working scalable Django code, Python&JS in quite detail, Working in big Nextjs codebases, Whatever new I see about Flutter , More on archlinux and vim , etc** in order to force myself to get a deeper picture of programming.
+- 🌱 I’m currently learning **Flutter Package Codebases , System Design , wroking in big NestJs codebases , Reading and working scalable Django code, Python&JS in quite detail, Working in big Nextjs codebases, Whatever new I see about Flutter , More on archlinux and vim , etc** in order to force myself to get a deeper picture of programming.
 
 - 👨‍💻 Some of my projects are available at [lamsalprabin.com.np](https://lamsalprabin.com.np)
 
