@@ -5,22 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/prabinlamsal74" target="blank"><img src="https://img.shields.io/twitter/follow/prabinlamsal74?logo=twitter&style=for-the-badge" alt="prabinlamsal74" /></a> </p>
 
-- 🌱 I’m currently learning **to read OpenSource code && langchain.js** 
+- I am a Flutter Developer by profession. 
+- 🌱 I’m currently learning ** Flutter Package Codebases , System Design , wroking in big NestJs codebases , Reading and working scalable Django code, Python&JS in quite detail, Working in big Nextjs codebases, Whatever new I see about Flutter , More on archlinux and vim , etc** in order to force myself to get a deeper picture of programming.
 
 - 👨‍💻 Some of my projects are available at [lamsalprabin.com.np](https://lamsalprabin.com.np)
 
-- 📝 I only design well when the design is available. [prabin.netlify.app](https://prabin.netlify.app)
+- 📝 My mind is not made for design. [prabin.netlify.app](https://prabin.netlify.app)
 
 - 📫 How to reach me **prabinlamsal74@gmail.com**
 
-- ⚡ Flutter >> React Native
-- ⚡ VIM Keybindings >> VIM, the Editor(or nvim, lvim)
-- ⚡ JS ecosystem (except react native)   >>>>> 
-- ⚡ a pragmatic programmer >> 10 frameworkers 
-- ⚡ (Arch >>>> Debian and her children)   &&    (AUR>>>>>>> *)
-- ⚡ Humans >> AI(its just a tool bro.) p.s. please don't make me jobless 
-- ⚡ Go is the best programming language ever by design.
-- ⚡ grunge >> pop
+- ⚡ I just switched from VSCode(Vim + Keybindings) to NVIM permanently. Loving the new found epicness.
+- ⚡ I use ArchLinux with I3 Tiling WM. My laptop is unusable to 99.99 percent of the population.
+- ⚡ My bad coding skills prevents me from building what I want to build.
+- ⚡ I code for passion.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
