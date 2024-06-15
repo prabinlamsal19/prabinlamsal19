@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabinlamsal19&label=Profile%20views&color=0e75b6&style=flat" alt="prabinlamsal19" /> </p>  
 
 <p align="left"> <a href="https://twitter.com/prabinlamsal74" target="blank"><img src="https://img.shields.io/twitter/follow/prabinlamsal74?logo=twitter&style=for-the-badge" alt="prabinlamsal74" /></a> </p>
+Programming is my passion. I am really sorry for not following it sooner in my life.
 
 I am a Flutter Developer by profession. 
 🌱 I’m currently trying to see if I can learn 
