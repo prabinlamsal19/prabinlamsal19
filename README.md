@@ -1,1 +1,1 @@
-A dead program normally does a lot less damage than a crippled one.
+The cat ate my source code
