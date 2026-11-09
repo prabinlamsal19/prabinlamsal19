@@ -8,8 +8,11 @@
 
                        
 
-[![My screen time](https://api.myscreentimeispublic.online/v1/cards/alex.svg?theme=paper&size=compact)](https://myscreentimeispublic.online/u/alex)
-
+<p align="left">
+  <a href="https://myscreentimeispublic.online/u/alex">
+    <img alt="My screen time" src="https://api.myscreentimeispublic.online/v1/cards/alex.svg?theme=ink&amp;size=full" width="380">
+  </a>
+</p>
 
 
 
